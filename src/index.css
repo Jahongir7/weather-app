@@ -22,8 +22,7 @@ main {
     rgba(0, 0, 0, 0.75)
   );
   padding: 25px;
-  display: grid;
-  grid-template-columns: 50% 50%;
+  display: flex;
 }
 .search-box {
   width: 100%;
