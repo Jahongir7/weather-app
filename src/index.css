@@ -91,6 +91,6 @@ main {
 @media (max-width: 676px) {
   main {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 }
