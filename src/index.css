@@ -92,5 +92,10 @@ main {
   main {
     display: flex;
     flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+  }
+  .search-box .search-bar {
+    margin-top: 0;
   }
 }
