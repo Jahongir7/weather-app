@@ -21,7 +21,7 @@ main {
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.75)
   );
-  padding: 25px;
+  padding: 0 25px;
   display: grid;
   grid-template-columns: 50% 50%;
 }
@@ -96,6 +96,9 @@ main {
     justify-content: center;
   }
   .search-box .search-bar {
+    margin-top: 0;
+  }
+  .location-box .location {
     margin-top: 0;
   }
 }
